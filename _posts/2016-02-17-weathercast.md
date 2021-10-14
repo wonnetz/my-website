@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
+title: 'Crime in Atlanta and COVID-19'
 date: 2016-02-20 15:56:00
-categories: development
-tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
+categories: R
+tags: R Data-Visualization Analysis
+featured_image: '/img/posts/Personal-Project-Viz.png'
 project_link: 'http://github.com/jamigibbs/weathercast'
-button_icon: 'github'
+button_icon: 'flask'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'I figured that there might be some correlation between crime rates in Atlanta and the rising number of COVID-19 cases. Lets see what my analysis concludes...'
 ---

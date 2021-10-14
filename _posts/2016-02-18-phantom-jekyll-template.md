@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Phantom'
+title: 'Tableau Resume'
 date: 2016-02-20 21:15:00
 categories: development design
-tags: Jekyll Sass Bootstrap
-featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs'
+tags: Tableau Data-Visualization Resume
+featured_image: 'img\posts\preview-interactive-resume.png'
+project_link: 'https://public.tableau.com/app/profile/wonnetz.phanthavong/viz/ResumeTemplate_16237989054070/WonnetzPhanthavongInteractiveResume'
 button_icon: 'flask'
 button_text: 'Visit Project'
-lead_text: "A minimalist Jekyll theme that you're looking at it right now"
+lead_text: "An interactive resume that I created using Tableau."
 ---
