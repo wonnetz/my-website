@@ -16,8 +16,8 @@
 title: "Hello. I'm Wonnetz."
 email: 'wonnetz2@gmail.com'
 description: "I'm a data analyst based in Atlanta who is creating this website!"
-baseurl: "/my-website" # the subpath of your site, e.g. /blog
-url: "https://wonnetz.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wonnetz.github.io/my-website" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'wonnetz'
 linkedin_username: 'linkedin.com/in/wonnetz/'
 
